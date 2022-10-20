@@ -1,0 +1,73 @@
+body{
+    position: relative;
+    background-color: #423F3E;
+}
+
+
+h1{
+    font-family: sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 90px;
+}
+input{
+    width: 400px;
+    border-radius: 20px;
+    font-size: large;
+    padding: 10px 5px;
+    border: solid 1px black; 
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+}
+
+
+
+
+.title{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    /* margin-top: 150px;   */
+}
+
+.search-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 500px; */
+    margin: auto;
+}
+
+.multi{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.search{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button{
+    margin-left: 15px;
+    font-size: medium;
+    border-radius: 5px;
+    background-color: #7FB5FF;
+    border: none;
+    color: white;
+    height: 40px;
+    font-size: large;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.all{
+    background-color: #171010;
+    width: fit-content;
+    height: fit-content;
+    padding: 80px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 50px;
+}
+
+form{
+    width: 100%;
+}
